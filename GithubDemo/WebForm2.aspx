@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="GithubDemo.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs" Inherits="GithubDemo.WebForm2" %>
 
 <!DOCTYPE html>
 
@@ -9,9 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>BSE20AFT</h1>
-            <h2>Hello, My name is toshan salabee</h2>
-
+            <h3>To fam so mari mo mari</h3>
         </div>
     </form>
 </body>
