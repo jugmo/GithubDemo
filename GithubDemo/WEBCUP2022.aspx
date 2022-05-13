@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="GithubDemo.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WEBCUP2022.aspx.cs" Inherits="GithubDemo.WEBCUP2022" %>
 
 <!DOCTYPE html>
 
@@ -9,8 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>BSE20AFT</h1>
-            <h3> WEBCUP 2022</h3>
+            <h1>BUG DESTROYER</h1>
         </div>
     </form>
 </body>
